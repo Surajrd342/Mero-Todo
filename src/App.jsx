@@ -7,6 +7,9 @@ function App() {
       <h1 className="text-3xl font-bold text-red-500 underline bg-orange-300 ">
         Hello world!
       </h1>
+      <h2>
+        Hello added a new Item
+      </h2>
     </div>
 
   )
